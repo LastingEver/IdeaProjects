@@ -14,7 +14,7 @@ public class ServerListener extends Thread {
                 //建立连接
                 JOptionPane.showMessageDialog(null, "54321");
                 //将socket传给新的线程
-                ChatSocket chatSocket=new ChatSocket(socket);
+                ChatSocket chatSocket = new ChatSocket(socket);
                 chatSocket.start();
                 ChatManager.getChatManager().add(chatSocket);
             }

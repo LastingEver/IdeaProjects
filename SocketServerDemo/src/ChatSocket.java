@@ -21,12 +21,12 @@ public class ChatSocket extends Thread {
 
     @Override
     public void run() {
-        BufferedReader bufferedReader= null;
+        BufferedReader bufferedReader = null;
         try {
-            bufferedReader = new BufferedReader(new InputStreamReader(socket.getInputStream(),"UTF-8"));
-            String line=null;
-            while ((line=bufferedReader.readLine())!=null){
-                ChatManager.getChatManager().publish(this,line);
+            bufferedReader = new BufferedReader(new InputStreamReader(socket.getInputStream(), "UTF-8"));
+            String line = null;
+            while ((line = bufferedReader.readLine()) != null) {
+                ChatManager.getChatManager().publish(this, line);
             }
             bufferedReader.close();
         } catch (IOException e) {
