@@ -132,6 +132,9 @@ public class CourseInfo extends JFrame {
                                     JOptionPane.showMessageDialog(null, "课程编号有误！请重新输入!");
                                 } else {
                                     mysql.executeUpdate("UPDATE cInfo SET 课程名称=" + "'" + 课程名称输入.getText().trim() + "'" + ",学分=" + 学分输入.getText().trim() + ",学时数=" + 学时数输入.getText().trim() + " WHERE 课程编号=" + 课程编号输入.getText().trim());
+                                    课程名称输入.setText("");
+                                    学分输入.setText("");
+                                    学时数输入.setText("");
                                     JOptionPane.showMessageDialog(null, "课程信息修改成功!");
                                 }
                             } catch (SQLException e1) {

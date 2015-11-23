@@ -2,15 +2,19 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.sql.*;
 
 public class AdministratorLogin extends JFrame{
+    Connection connection;
+    Statement mysql;
+
     JPanel usernamePanel=new JPanel();
     JLabel usernameLabel=new JLabel("管理员账号");
     JTextField username=new JTextField(13);
 
     JPanel passwordPanel=new JPanel();
     JLabel passwordLabel=new JLabel("管理员密码");
-    JTextField password=new JTextField(13);
+    JPasswordField password=new JPasswordField(13);
 
     JPanel operation=new JPanel();
     JButton login=new JButton("登陆");
@@ -33,9 +37,24 @@ public class AdministratorLogin extends JFrame{
         login.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                //TODO完成数据库查询操作返回登陆状态
+                try {
+                    Class.forName("com.mysql.jdbc.Driver");
+                    System.out.println("驱动加载成功");
+                } catch (ClassNotFoundException exception) {
+                    JOptionPane.showMessageDialog(null, "MySQL驱动加载失败！请检查");
+                }
 
-                new AdministratorPanel(permission);
+                try {
+                    connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/sms", username.getText().trim(), String.valueOf(password.getPassword()));
+                    mysql = connection.createStatement(ResultSet.TYPE_SCROLL_SENSITIVE, ResultSet.CONCUR_UPDATABLE);
+                    System.out.println("数据库连接成功");
+                    JOptionPane.showMessageDialog(null, "登陆成功！");
+                    dispose();
+                    new AdministratorPanel(permission);
+                } catch (SQLException exception) {
+                    System.out.println("数据库连接异常！");
+                    JOptionPane.showMessageDialog(null, "MySQL数据源连接失败！请检查！");
+                }
             }
         });
         operation.add(back);

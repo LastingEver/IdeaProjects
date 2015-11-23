@@ -27,87 +27,27 @@
         <entry file="file://$PROJECT_DIR$/src/AssistantLogin.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="61" column="34" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
+              <caret line="50" column="34" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
               <folding>
-                <marker date="1448206511266" expanded="true" signature="2150:2182" placeholder="SELECT 姓名 FR..aInfo..." />
+                <marker date="1448240580172" expanded="true" signature="2150:2182" placeholder="SELECT 姓名 FR..aInfo..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CourseInfo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/CourseInfo.java">
+      <file leaf-file-name="MarkInfo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MarkInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3478261">
-              <caret line="151" column="50" selection-start-line="151" selection-start-column="50" selection-end-line="151" selection-end-column="50" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="100" column="29" selection-start-line="100" selection-start-column="29" selection-end-line="100" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1448212219206" expanded="true" signature="3183:3214" placeholder="SELECT * FRO..cInfo..." />
-                <marker date="1448212219206" expanded="true" signature="4472:4503" placeholder="SELECT * FRO..cInfo..." />
-                <marker date="1448212219206" expanded="true" signature="4771:4916" placeholder="UPDATE cInfo..." />
-                <marker date="1448212219206" expanded="true" signature="5697:5714" placeholder="INSERT INTO ..." />
-                <marker date="1448212219206" expanded="true" signature="5697:5742" placeholder="INSERT INTO ..." />
-                <marker date="1448212219206" expanded="true" signature="5697:5774" placeholder="INSERT INTO ..." />
-                <marker date="1448212219206" expanded="true" signature="5697:5838" placeholder="INSERT INTO ..." />
-                <marker date="1448212219206" expanded="true" signature="5697:5869" placeholder="INSERT INTO ..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AdministratorLogin.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AdministratorLogin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AdministratorPanel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AdministratorPanel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StudentLogin.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StudentLogin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="48" column="55" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1448206511270" expanded="true" signature="2139:2169" placeholder="SELECT 姓名 FR..sInfo..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StudentManagerSystem.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StudentManagerSystem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-              <folding>
-                <element signature="e#1073#1074#0" expanded="true" />
-                <element signature="e#1141#1142#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TeacherPanel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TeacherPanel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <marker date="1448241149664" expanded="true" signature="3178:3209" placeholder="SELECT * FRO..cInfo..." />
+                <marker date="1448241149664" expanded="true" signature="3178:3242" placeholder="SELECT * FRO..mInfo..." />
+                <marker date="1448241149664" expanded="true" signature="3178:3250" placeholder="SELECT * FRO..mInfo..." />
+                <marker date="1448241149664" expanded="true" signature="4506:4537" placeholder="SELECT * FRO..cInfo..." />
+                <marker date="1448241149664" expanded="true" signature="4805:4948" placeholder="UPDATE cInfo..." />
+                <marker date="1448241149664" expanded="true" signature="5892:6062" placeholder="INSERT INTO ..." />
               </folding>
             </state>
           </provider>
@@ -117,20 +57,58 @@
         <entry file="file://$PROJECT_DIR$/src/AssistantPanel.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <element signature="e#875#876#0" expanded="true" />
+                <element signature="e#933#934#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DbManager.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DbManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.9347826">
+              <caret line="56" column="25" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1448246915432" expanded="true" signature="1740:1814" placeholder="SELECT * FRO..mInfo..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdministratorLogin.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AdministratorLogin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="66" column="11" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StudentPanel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StudentPanel.java">
+      <file leaf-file-name="SystemConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SystemConfig.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <caret line="108" column="13" selection-start-line="108" selection-start-column="13" selection-end-line="108" selection-end-column="13" />
               <folding>
-                <element signature="e#658#659#0" expanded="true" />
-                <element signature="e#721#722#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentLogin.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StudentLogin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="47" column="101" selection-start-line="47" selection-start-column="101" selection-end-line="47" selection-end-column="101" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1448240580176" expanded="true" signature="2139:2169" placeholder="SELECT 姓名 FR..sInfo..." />
               </folding>
             </state>
           </provider>
@@ -140,10 +118,20 @@
         <entry file="file://$PROJECT_DIR$/src/TeacherLogin.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="66" column="25" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
+              <caret line="47" column="101" selection-start-line="47" selection-start-column="101" selection-end-line="47" selection-end-column="101" />
               <folding>
-                <marker date="1448206511270" expanded="true" signature="2145:2177" placeholder="SELECT 姓名 FR..tInfo..." />
+                <marker date="1448240580176" expanded="true" signature="2145:2177" placeholder="SELECT 姓名 FR..tInfo..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentPanel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StudentPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="36" column="42" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -167,22 +155,22 @@
       <list>
         <option value="$PROJECT_DIR$/src/Feedback.java" />
         <option value="$PROJECT_DIR$/src/DBManager.java" />
-        <option value="$PROJECT_DIR$/src/DbManager.java" />
-        <option value="$PROJECT_DIR$/src/SystemConfig.java" />
-        <option value="$PROJECT_DIR$/src/MarkInfo.java" />
-        <option value="$PROJECT_DIR$/src/AdministratorLogin.java" />
         <option value="$PROJECT_DIR$/src/AdministratorPanel.java" />
         <option value="$PROJECT_DIR$/src/StudentManagerSystem.java" />
-        <option value="$PROJECT_DIR$/src/StudentLogin.java" />
-        <option value="$PROJECT_DIR$/src/TeacherLogin.java" />
-        <option value="$PROJECT_DIR$/src/AssistantLogin.java" />
         <option value="$PROJECT_DIR$/src/StudentInfo.java" />
         <option value="$PROJECT_DIR$/src/TeacherInfo.java" />
         <option value="$PROJECT_DIR$/src/AssistantInfo.java" />
         <option value="$PROJECT_DIR$/src/TeacherPanel.java" />
         <option value="$PROJECT_DIR$/src/AssistantPanel.java" />
         <option value="$PROJECT_DIR$/src/StudentPanel.java" />
+        <option value="$PROJECT_DIR$/src/AdministratorLogin.java" />
         <option value="$PROJECT_DIR$/src/CourseInfo.java" />
+        <option value="$PROJECT_DIR$/src/AssistantLogin.java" />
+        <option value="$PROJECT_DIR$/src/TeacherLogin.java" />
+        <option value="$PROJECT_DIR$/src/StudentLogin.java" />
+        <option value="$PROJECT_DIR$/src/MarkInfo.java" />
+        <option value="$PROJECT_DIR$/src/SystemConfig.java" />
+        <option value="$PROJECT_DIR$/src/DbManager.java" />
       </list>
     </option>
   </component>
@@ -228,9 +216,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -265,6 +250,9 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -589,11 +577,13 @@
       <workItem from="1448165615928" duration="7155000" />
       <workItem from="1448173551494" duration="1779000" />
       <workItem from="1448198339791" duration="11504000" />
+      <workItem from="1448233304624" duration="3697000" />
+      <workItem from="1448239836464" duration="6526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42433000" />
+    <option name="totallyTimeSpent" value="52656000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="0" width="1926" height="1049" extended-state="6" />
@@ -647,13 +637,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SystemConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/AdministratorPanel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -680,11 +663,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1448210574862" expanded="true" signature="-1:-1" placeholder="SELECT 姓名 FR..tInfo..." />
-            <marker date="1448210574862" expanded="true" signature="-1:-1" placeholder="SELECT 学院 FR..tInfo..." />
-            <marker date="1448210574862" expanded="true" signature="-1:-1" placeholder="SELECT 系 FRO..tInfo..." />
-            <marker date="1448210574862" expanded="true" signature="-1:-1" placeholder="UPDATE tInfo..." />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -701,18 +680,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1448210574858" expanded="true" signature="-1:-1" placeholder="SELECT 姓名 FR..sInfo..." />
-            <marker date="1448210574858" expanded="true" signature="-1:-1" placeholder="SELECT 性别 FR..sInfo..." />
-            <marker date="1448210574858" expanded="true" signature="-1:-1" placeholder="SELECT 出生年月 ..sInfo..." />
-            <marker date="1448210574858" expanded="true" signature="-1:-1" placeholder="SELECT 学院 FR..sInfo..." />
-            <marker date="1448210574858" expanded="true" signature="-1:-1" placeholder="SELECT 性别 FR..sInfo..." />
-            <marker date="1448210574858" expanded="true" signature="-1:-1" placeholder="UPDATE sInfo..." />
-            <marker date="1448210574858" expanded="true" signature="-1:-1" placeholder="UPDATE sInfo..." />
-            <marker date="1448210574858" expanded="true" signature="-1:-1" placeholder="UPDATE sInfo..." />
-            <marker date="1448210574858" expanded="true" signature="-1:-1" placeholder="UPDATE sInfo..." />
-            <marker date="1448210574858" expanded="true" signature="-1:-1" placeholder="UPDATE sInfo..." />
-            <marker date="1448210574858" expanded="true" signature="-1:-1" placeholder="UPDATE sInfo..." />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -730,7 +698,7 @@
           <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1448206511270" expanded="true" signature="2139:2169" placeholder="SELECT 姓名 FR..sInfo..." />
+            <marker date="1448240580176" expanded="true" signature="2139:2169" placeholder="SELECT 姓名 FR..sInfo..." />
           </folding>
         </state>
       </provider>
@@ -740,7 +708,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
           <folding>
-            <marker date="1448206511270" expanded="true" signature="2145:2177" placeholder="SELECT 姓名 FR..tInfo..." />
+            <marker date="1448240580176" expanded="true" signature="2145:2177" placeholder="SELECT 姓名 FR..tInfo..." />
           </folding>
         </state>
       </provider>
@@ -749,7 +717,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="51" column="48" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
-          <folding />
+          <folding>
+            <element signature="e#1073#1074#0" expanded="true" />
+            <element signature="e#1141#1142#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -757,12 +728,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="49" column="25" selection-start-line="6" selection-start-column="4" selection-end-line="49" selection-end-column="25" />
-          <folding>
-            <element signature="e#868#869#0" expanded="false" />
-            <element signature="e#926#927#0" expanded="false" />
-            <element signature="e#1073#1074#0" expanded="false" />
-            <element signature="e#1133#1134#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -830,11 +796,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1448210574862" expanded="true" signature="-1:-1" placeholder="SELECT 姓名 FR..tInfo..." />
-            <marker date="1448210574862" expanded="true" signature="-1:-1" placeholder="SELECT 学院 FR..tInfo..." />
-            <marker date="1448210574862" expanded="true" signature="-1:-1" placeholder="SELECT 系 FRO..tInfo..." />
-            <marker date="1448210574862" expanded="true" signature="-1:-1" placeholder="UPDATE tInfo..." />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -843,7 +805,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#1073#1074#0" expanded="true" />
+            <element signature="e#1141#1142#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -853,7 +818,7 @@
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1448206511270" expanded="true" signature="2139:2169" placeholder="SELECT 姓名 FR..sInfo..." />
+            <marker date="1448240580176" expanded="true" signature="2139:2169" placeholder="SELECT 姓名 FR..sInfo..." />
           </folding>
         </state>
       </provider>
@@ -877,7 +842,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
-            <marker date="1448206511270" expanded="true" signature="2145:2177" placeholder="SELECT 姓名 FR..tInfo..." />
+            <marker date="1448240580176" expanded="true" signature="2145:2177" placeholder="SELECT 姓名 FR..tInfo..." />
           </folding>
         </state>
       </provider>
@@ -886,7 +851,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#1073#1074#0" expanded="true" />
+            <element signature="e#1141#1142#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -896,7 +864,7 @@
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1448206511270" expanded="true" signature="2139:2169" placeholder="SELECT 姓名 FR..sInfo..." />
+            <marker date="1448240580176" expanded="true" signature="2139:2169" placeholder="SELECT 姓名 FR..sInfo..." />
           </folding>
         </state>
       </provider>
@@ -920,7 +888,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
-            <marker date="1448206511270" expanded="true" signature="2145:2177" placeholder="SELECT 姓名 FR..tInfo..." />
+            <marker date="1448240580176" expanded="true" signature="2145:2177" placeholder="SELECT 姓名 FR..tInfo..." />
           </folding>
         </state>
       </provider>
@@ -929,14 +897,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/sql/Statement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3322314">
-          <caret line="64" column="14" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -956,38 +916,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DbManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MarkInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SystemConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/TeacherInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="95" column="38" selection-start-line="95" selection-start-column="38" selection-end-line="95" selection-end-column="38" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1448210574862" expanded="true" signature="-1:-1" placeholder="SELECT 姓名 FR..tInfo..." />
-            <marker date="1448210574862" expanded="true" signature="-1:-1" placeholder="SELECT 学院 FR..tInfo..." />
-            <marker date="1448210574862" expanded="true" signature="-1:-1" placeholder="SELECT 系 FRO..tInfo..." />
-            <marker date="1448210574862" expanded="true" signature="-1:-1" placeholder="UPDATE tInfo..." />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StudentInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="125" column="45" selection-start-line="125" selection-start-column="45" selection-end-line="125" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StudentManagerSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+          <folding>
+            <element signature="e#1073#1074#0" expanded="true" />
+            <element signature="e#1141#1142#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1004,34 +959,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StudentInfo.java">
+    <entry file="file://$PROJECT_DIR$/src/AdministratorPanel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="125" column="45" selection-start-line="125" selection-start-column="45" selection-end-line="125" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1448210574858" expanded="true" signature="-1:-1" placeholder="SELECT 姓名 FR..sInfo..." />
-            <marker date="1448210574858" expanded="true" signature="-1:-1" placeholder="SELECT 性别 FR..sInfo..." />
-            <marker date="1448210574858" expanded="true" signature="-1:-1" placeholder="SELECT 出生年月 ..sInfo..." />
-            <marker date="1448210574858" expanded="true" signature="-1:-1" placeholder="SELECT 学院 FR..sInfo..." />
-            <marker date="1448210574858" expanded="true" signature="-1:-1" placeholder="SELECT 性别 FR..sInfo..." />
-            <marker date="1448210574858" expanded="true" signature="-1:-1" placeholder="UPDATE sInfo..." />
-            <marker date="1448210574858" expanded="true" signature="-1:-1" placeholder="UPDATE sInfo..." />
-            <marker date="1448210574858" expanded="true" signature="-1:-1" placeholder="UPDATE sInfo..." />
-            <marker date="1448210574858" expanded="true" signature="-1:-1" placeholder="UPDATE sInfo..." />
-            <marker date="1448210574858" expanded="true" signature="-1:-1" placeholder="UPDATE sInfo..." />
-            <marker date="1448210574858" expanded="true" signature="-1:-1" placeholder="UPDATE sInfo..." />
-          </folding>
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StudentPanel.java">
+    <entry file="file://$PROJECT_DIR$/src/CourseInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
           <folding>
-            <element signature="e#658#659#0" expanded="true" />
-            <element signature="e#721#722#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <marker date="1448236554005" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..cInfo..." />
+            <marker date="1448236554005" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..cInfo..." />
+            <marker date="1448236554005" expanded="true" signature="-1:-1" placeholder="UPDATE cInfo..." />
+            <marker date="1448236554005" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1448236554005" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1448236554005" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1448236554005" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1448236554005" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -1046,29 +995,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AdministratorPanel.java">
+    <entry file="file://$PROJECT_DIR$/src/StudentPanel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <caret line="36" column="42" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AssistantPanel.java">
+    <entry file="file://$PROJECT_DIR$/src/TeacherLogin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
-          <folding />
+          <caret line="47" column="101" selection-start-line="47" selection-start-column="101" selection-end-line="47" selection-end-column="101" />
+          <folding>
+            <marker date="1448240580176" expanded="true" signature="2145:2177" placeholder="SELECT 姓名 FR..tInfo..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StudentLogin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="48" column="55" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
+          <caret line="47" column="101" selection-start-line="47" selection-start-column="101" selection-end-line="47" selection-end-column="101" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1448206511270" expanded="true" signature="2139:2169" placeholder="SELECT 姓名 FR..sInfo..." />
+            <marker date="1448240580176" expanded="true" signature="2139:2169" placeholder="SELECT 姓名 FR..sInfo..." />
           </folding>
         </state>
       </provider>
@@ -1076,30 +1027,54 @@
     <entry file="file://$PROJECT_DIR$/src/AssistantLogin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="61" column="34" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
+          <caret line="50" column="34" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
           <folding>
-            <marker date="1448206511266" expanded="true" signature="2150:2182" placeholder="SELECT 姓名 FR..aInfo..." />
+            <marker date="1448240580172" expanded="true" signature="2150:2182" placeholder="SELECT 姓名 FR..aInfo..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TeacherLogin.java">
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/sql/Statement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.1020067">
+          <caret line="355" column="7" selection-start-line="355" selection-start-column="7" selection-end-line="355" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="66" column="25" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
+          <caret line="108" column="13" selection-start-line="108" selection-start-column="13" selection-end-line="108" selection-end-column="13" />
           <folding>
-            <marker date="1448206511270" expanded="true" signature="2145:2177" placeholder="SELECT 姓名 FR..tInfo..." />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StudentManagerSystem.java">
+    <entry file="file://$PROJECT_DIR$/src/MarkInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+          <caret line="100" column="29" selection-start-line="100" selection-start-column="29" selection-end-line="100" selection-end-column="29" />
           <folding>
-            <element signature="e#1073#1074#0" expanded="true" />
-            <element signature="e#1141#1142#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <marker date="1448241149664" expanded="true" signature="3178:3209" placeholder="SELECT * FRO..cInfo..." />
+            <marker date="1448241149664" expanded="true" signature="3178:3242" placeholder="SELECT * FRO..mInfo..." />
+            <marker date="1448241149664" expanded="true" signature="3178:3250" placeholder="SELECT * FRO..mInfo..." />
+            <marker date="1448241149664" expanded="true" signature="4506:4537" placeholder="SELECT * FRO..cInfo..." />
+            <marker date="1448241149664" expanded="true" signature="4805:4948" placeholder="UPDATE cInfo..." />
+            <marker date="1448241149664" expanded="true" signature="5892:6062" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AssistantPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#875#876#0" expanded="true" />
+            <element signature="e#933#934#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1107,25 +1082,26 @@
     <entry file="file://$PROJECT_DIR$/src/AdministratorLogin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <caret line="66" column="11" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CourseInfo.java">
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/javax/swing/JTextArea.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3478261">
-          <caret line="151" column="50" selection-start-line="151" selection-start-column="50" selection-end-line="151" selection-end-column="50" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="494" column="16" selection-start-line="494" selection-start-column="16" selection-end-line="494" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DbManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9347826">
+          <caret line="56" column="25" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1448212219206" expanded="true" signature="3183:3214" placeholder="SELECT * FRO..cInfo..." />
-            <marker date="1448212219206" expanded="true" signature="4472:4503" placeholder="SELECT * FRO..cInfo..." />
-            <marker date="1448212219206" expanded="true" signature="4771:4916" placeholder="UPDATE cInfo..." />
-            <marker date="1448212219206" expanded="true" signature="5697:5714" placeholder="INSERT INTO ..." />
-            <marker date="1448212219206" expanded="true" signature="5697:5742" placeholder="INSERT INTO ..." />
-            <marker date="1448212219206" expanded="true" signature="5697:5774" placeholder="INSERT INTO ..." />
-            <marker date="1448212219206" expanded="true" signature="5697:5838" placeholder="INSERT INTO ..." />
-            <marker date="1448212219206" expanded="true" signature="5697:5869" placeholder="INSERT INTO ..." />
+            <marker date="1448246915432" expanded="true" signature="1740:1814" placeholder="SELECT * FRO..mInfo..." />
           </folding>
         </state>
       </provider>
