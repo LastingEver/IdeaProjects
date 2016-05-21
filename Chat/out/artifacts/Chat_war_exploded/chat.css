@@ -1,0 +1,43 @@
+.shadow {
+    filter: dropshadow(color=#999999, offx=1, offy=1);
+    font-size: 16px;
+    font-weight: bold;
+
+}
+
+body {
+    font-size: 14px;
+}
+
+table {
+    font-size: 14px;
+}
+
+a:link {
+    color: #0000FF;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #0000FF;
+    text-decoration: none;
+}
+
+title {
+    font-size: 14px;
+    filter: dropshadow(color=#999999, offx=1, offy=1);
+}
+
+.mytable {
+    border: 1px #000000;
+    padding: 4px;
+    background-color: #000000;
+}
+
+.new {
+    filter: Glow(Color=red, Strength=2);
+}
+
+.small {
+    font-size: 13px;
+}
