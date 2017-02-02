@@ -67,7 +67,7 @@ public class FactoryAddressProcessing extends Configured implements Tool {
             fs.delete(path, true);
         }
 
-        Job job = new Job(getConf(), "ChildParentProcessing");
+        Job job = new Job(getConf(), "FactoryAddressProcessing");
         FileInputFormat.setInputPaths(job, new Path(IN_FILE));
 
         job.setMapperClass(MyMapper.class);
