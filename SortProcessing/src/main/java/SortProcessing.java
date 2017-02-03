@@ -4,7 +4,6 @@ import org.apache.hadoop.fs.FileSystem;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.Text;
-import org.apache.hadoop.io.Writable;
 import org.apache.hadoop.io.WritableComparable;
 import org.apache.hadoop.mapreduce.Job;
 import org.apache.hadoop.mapreduce.Mapper;
@@ -28,7 +27,7 @@ public class SortProcessing extends Configured implements Tool {
         System.exit(ToolRunner.run(new Configuration(), new SortProcessing(), args));
     }
 
-    public static class MyWritable implements Writable, WritableComparable<MyWritable>{
+    public static class MyWritable implements WritableComparable<MyWritable>{
         long firstNum;
         long secondNum;
 
