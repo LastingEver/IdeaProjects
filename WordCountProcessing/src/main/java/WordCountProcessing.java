@@ -14,7 +14,6 @@ import org.apache.hadoop.util.ToolRunner;
 
 import java.io.IOException;
 import java.net.URI;
-import java.util.StringTokenizer;
 
 public class WordCountProcessing extends Configured implements Tool {
 
